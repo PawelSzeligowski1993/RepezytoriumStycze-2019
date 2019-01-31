@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aa0575b-cf0b-4a44-8ff3-dc3cfe18d963" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Eagle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BufferedWriter/ZapisywaniePlikow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Moj_Pakiet/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="220" column="10" selection-start-line="220" selection-start-column="10" selection-end-line="220" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Elephant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Lion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorytmy/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorytmy/TestOfSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Parrot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BufferedWriter/FileIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BufferedWriter/WriteToFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="87" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Main.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Circle.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Math.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Circle2.java" />
+        <option value="$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/Tablica.java" />
+        <option value="$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/TablicaDwuwymiarowa.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/ZooApplication.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Eagle.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Animal.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Carnivore.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Herbivore.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Lion.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Elephant.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/ZooApplication2.java" />
+        <option value="$PROJECT_DIR$/src/wj6_OperacjeWejsciaWyjscia/Skaner.java" />
+        <option value="$PROJECT_DIR$/src/bufferreader/example.txt" />
+        <option value="$PROJECT_DIR$/src/bufferreader/BufferedReader.java" />
+        <option value="$PROJECT_DIR$/src/bufferreader/example" />
+        <option value="$PROJECT_DIR$/src/example.txt" />
+        <option value="$PROJECT_DIR$/src/bufferreader/Test_BufferedReader.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriter/WriteToFile.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriter/FileIO.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriter/FileWriter2.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriter/FileWriter.java" />
+        <option value="$PROJECT_DIR$/src/BufferedWriter/ZapisywaniePlikow.java" />
+        <option value="$PROJECT_DIR$/src/bufferReader/OdczytywaniePliku.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRide/MethodRead.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRide/MethodWrite.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRide/MethodOfSegregation.java" />
+        <option value="$PROJECT_DIR$/src/Algorytmy/TestOfSorting.java" />
+        <option value="$PROJECT_DIR$/src/Algorytmy/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/StanyObiektuToString.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/ExampleToString.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/MainToString.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/apples.java" />
+        <option value="$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/ExampleToString2.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRide/MethodOfCount.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRide/Main.java" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRideProjekt/Main.java" />
+        <option value="$PROJECT_DIR$/jebanyTEXT" />
+        <option value="$PROJECT_DIR$/src/buffWriteAndRideProjekt/MethodOfCount.java" />
+        <option value="$PROJECT_DIR$/src/MetodyProjekt/Kola.java" />
+        <option value="$PROJECT_DIR$/src/MetodyProjekt/Prostokąty.java" />
+        <option value="$PROJECT_DIR$/src/MetodyProjekt/Trójkąty.java" />
+        <option value="$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/wj41_ArrayListPrzyklad/Totek.java" />
+        <option value="$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/wj41_ArrayListPrzyklad/TotekTest.java" />
+        <option value="$PROJECT_DIR$/src/MetodyProjekt/Main.java" />
+        <option value="$PROJECT_DIR$/src/bufferReader/Test_BufferedReader.java" />
+        <option value="$PROJECT_DIR$/src/Moj_Pakiet/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-112" />
+    <option name="y" value="-18" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Trening2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trening2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trening2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trening2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548933978886" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/WzorceProjektowe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pawel\IdeaProjects\Trening2019\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Moj_Pakiet.Main" />
+      <module name="Trening2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Moj_Pakiet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buffWriteAndRideProjekt.Main" />
+      <module name="Trening2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buffWriteAndRideProjekt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Skaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wj6_OperacjeWejsciaWyjscia.Skaner" />
+      <module name="Trening2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wj6_OperacjeWejsciaWyjscia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wj4_AlgorytmyiStrukturyDanych.Tablica" />
+      <module name="Trening2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wj4_AlgorytmyiStrukturyDanych.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_BufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bufferReader.Test_BufferedReader" />
+      <module name="Trening2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bufferReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Skaner" />
+      <item itemvalue="Application.Tablica" />
+      <item itemvalue="Application.Test_BufferedReader" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test_BufferedReader" />
+        <item itemvalue="Application.Skaner" />
+        <item itemvalue="Application.Tablica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aa0575b-cf0b-4a44-8ff3-dc3cfe18d963" name="Default Changelist" comment="" />
+      <created>1546518332443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546518332443</updated>
+      <workItem from="1546518336245" duration="1412000" />
+      <workItem from="1546520230842" duration="1598000" />
+      <workItem from="1546522095006" duration="1469000" />
+      <workItem from="1546524870379" duration="1754000" />
+      <workItem from="1546527616146" duration="1769000" />
+      <workItem from="1546529435744" duration="1215000" />
+      <workItem from="1546546754887" duration="1752000" />
+      <workItem from="1546548567435" duration="1024000" />
+      <workItem from="1546606879041" duration="1265000" />
+      <workItem from="1546608891326" duration="1492000" />
+      <workItem from="1546610692920" duration="1708000" />
+      <workItem from="1546612506586" duration="1922000" />
+      <workItem from="1546614473761" duration="1778000" />
+      <workItem from="1546616308138" duration="831000" />
+      <workItem from="1546618709640" duration="1470000" />
+      <workItem from="1546620507035" duration="1534000" />
+      <workItem from="1546622626093" duration="657000" />
+      <workItem from="1546624441523" duration="703000" />
+      <workItem from="1546686664676" duration="599000" />
+      <workItem from="1546693940123" duration="960000" />
+      <workItem from="1546696036170" duration="1781000" />
+      <workItem from="1546697866230" duration="1066000" />
+      <workItem from="1546777459260" duration="1758000" />
+      <workItem from="1546779290367" duration="1777000" />
+      <workItem from="1546781491379" duration="1872000" />
+      <workItem from="1546877074746" duration="1362000" />
+      <workItem from="1546878913915" duration="1297000" />
+      <workItem from="1546880712136" duration="1437000" />
+      <workItem from="1546939605051" duration="1748000" />
+      <workItem from="1546941397694" duration="1707000" />
+      <workItem from="1546944714525" duration="1782000" />
+      <workItem from="1546946541401" duration="1777000" />
+      <workItem from="1546948361109" duration="1051000" />
+      <workItem from="1546960879764" duration="599000" />
+      <workItem from="1546963040487" duration="1722000" />
+      <workItem from="1546964836549" duration="1770000" />
+      <workItem from="1546966649458" duration="679000" />
+      <workItem from="1546969574344" duration="1771000" />
+      <workItem from="1546971390818" duration="1829000" />
+      <workItem from="1546973254738" duration="1777000" />
+      <workItem from="1546975074262" duration="2297000" />
+      <workItem from="1546979675213" duration="1833000" />
+      <workItem from="1546981558034" duration="1695000" />
+      <workItem from="1546985973577" duration="1774000" />
+      <workItem from="1546987792385" duration="1731000" />
+      <workItem from="1546991091251" duration="1721000" />
+      <workItem from="1547044650971" duration="1744000" />
+      <workItem from="1547046470339" duration="1553000" />
+      <workItem from="1547112300617" duration="1727000" />
+      <workItem from="1547114069762" duration="1772000" />
+      <workItem from="1547115883828" duration="2069000" />
+      <workItem from="1547117989720" duration="1775000" />
+      <workItem from="1547119797398" duration="1490000" />
+      <workItem from="1547124371449" duration="1778000" />
+      <workItem from="1547126181254" duration="1759000" />
+      <workItem from="1547128008027" duration="1775000" />
+      <workItem from="1547129831316" duration="920000" />
+      <workItem from="1547131652037" duration="1768000" />
+      <workItem from="1547133491363" duration="850000" />
+      <workItem from="1547230536393" duration="1676000" />
+      <workItem from="1547232264226" duration="1762000" />
+      <workItem from="1547234099497" duration="1547000" />
+      <workItem from="1547236701751" duration="599000" />
+      <workItem from="1547280424905" duration="1118000" />
+      <workItem from="1547282258731" duration="616000" />
+      <workItem from="1547284038493" duration="1442000" />
+      <workItem from="1547286290034" duration="1054000" />
+      <workItem from="1547288099546" duration="599000" />
+      <workItem from="1547289911087" duration="1198000" />
+      <workItem from="1547291721718" duration="599000" />
+      <workItem from="1547293547730" duration="598000" />
+      <workItem from="1547295361007" duration="98000" />
+      <workItem from="1547297418945" duration="599000" />
+      <workItem from="1547299239889" duration="599000" />
+      <workItem from="1547301064381" duration="597000" />
+      <workItem from="1547303686542" duration="599000" />
+      <workItem from="1547366604765" duration="213000" />
+      <workItem from="1547366871464" duration="636000" />
+      <workItem from="1547369811751" duration="599000" />
+      <workItem from="1547380685896" duration="599000" />
+      <workItem from="1547385621238" duration="597000" />
+      <workItem from="1547387456272" duration="592000" />
+      <workItem from="1547984903412" duration="597000" />
+      <workItem from="1548061825848" duration="599000" />
+      <workItem from="1548064985875" duration="597000" />
+      <workItem from="1548066826938" duration="599000" />
+      <workItem from="1548068657447" duration="599000" />
+      <workItem from="1548070490159" duration="599000" />
+      <workItem from="1548072327911" duration="599000" />
+      <workItem from="1548074169258" duration="597000" />
+      <workItem from="1548076022999" duration="596000" />
+      <workItem from="1548077846792" duration="599000" />
+      <workItem from="1548080100018" duration="592000" />
+      <workItem from="1548081916444" duration="599000" />
+      <workItem from="1548086965998" duration="709000" />
+      <workItem from="1548089601708" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115942000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2946309" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3186969" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BufferedWriter/FileWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bufferReader/example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bufferReader/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffWriteAndRideProjekt/MethodOfSegregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bufferReader/OdczytywaniePliku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/apples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Circle2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/ExampleToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/MainToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Person1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/TablicaDwuwymiarowa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/Person2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj3_ProgramowanieObiektowe/t1MetodyPola/ExampleToString2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/Tablica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/ZooApplication2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/ZooApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/wj41_ArrayListPrzyklad/Totek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/wj41_ArrayListPrzyklad/TotekTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetodyProjekt/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetodyProjekt/Prostokąty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetodyProjekt/Kola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetodyProjekt/Trójkąty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bufferReader/Test_BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffWriteAndRideProjekt/MethodWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" selection-start-line="32" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffWriteAndRideProjekt/MethodRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffWriteAndRideProjekt/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffWriteAndRideProjekt/MethodOfCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj4_AlgorytmyiStrukturyDanych/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anyTEXT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PLIK190108.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trening2019.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plik.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj6_OperacjeWejsciaWyjscia/Skaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Carnivore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Eagle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wj5_InterfejsyDziedziczenie/Lion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorytmy/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorytmy/TestOfSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferedWriter/FileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferedWriter/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferedWriter/ZapisywaniePlikow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Moj_Pakiet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="220" column="10" selection-start-line="220" selection-start-column="10" selection-end-line="220" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
